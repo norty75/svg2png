@@ -9,5 +9,5 @@ query parameters:
   color=rrggbb (hexa) optional, if given changes colors from FF0000 to given color in result, othervise no color change
   svg_image=file      optional, if given converts only given file from svg_images dir, otherwise converts all *.svg
   size=s              optional, if given converted PNG gets x=s y=s size, default is 72 pixels
-
+output: converted PNG images in a HTML table (sample.php) or zipped (zip.php)
 </pre>
